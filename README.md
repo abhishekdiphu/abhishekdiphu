@@ -10,7 +10,7 @@
 <br />
 
 ### I am...
-* 🎓 A MSc graduate interested in `machine learning`, `deep learning`, `software develoment`
+* 🎓 A MSc graduate worked  in the field `machine learning`, `deep learning`, `software develoment` 
 * 🔭 Currently working on various topics in the field of machine learning.
 * 👨‍💻 Has been a software developer after my bachelors, a graduate reseach assistant during my Msc. 
 * 📚 Longlife learner 
