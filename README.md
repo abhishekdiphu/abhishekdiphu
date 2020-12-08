@@ -2,15 +2,15 @@
 <h3 align="center">A Msc.graduate , and a AI enthusiast ! </h3>
 <br />
 <a href="https://www.linkedin.com/in/abhishek-buragohain-28b8498a/" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="abhishek" width="40px" />
+  <img class ="center" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="abhishek" width="40px" />
 </a>
 <a href="https://www.researchgate.net/profile/Abhishek_Buragohain" target="blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/researchgate.svg" alt="abhishek" width="40px" />
+  <img class= "center" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/researchgate.svg" alt="abhishek" width="40px" />
 </a>
 <br />
 
 ### I am...
-* 🎓 A MSc graduate worked  in the field `machine learning`, `deep learning`, `software develoment` 
+* 🎓 A MSc graduate worked  in the field of `machine learning`& `deep learning` for unstructured medical data, `software develoment` 
 * 🔭 Currently working on various topics in the field of machine learning.
 * 👨‍💻 Has been a software developer after my bachelors, a graduate reseach assistant during my Msc. 
 * 📚 Longlife learner 
