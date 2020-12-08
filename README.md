@@ -1,6 +1,9 @@
 <h2 align="center">Hi 👋, I'm Abhishek</h2>
 <h3 align="center">A Msc.graduate , and a AI enthusiast ! </h3>
 
+<a href="https://www.linkedin.com/in/abhishek-buragohain-28b8498a/" target="blank">
+  <img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="abhishek" width="40px" />
+</a>
 ### I am...
 * 🎓 A MSc graduate interested in `machine learning`, `deep learning`, `software develoment`
 * 🔭 Currently working on various topics in the field of machine learning.
