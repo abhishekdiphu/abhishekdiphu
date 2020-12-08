@@ -1,8 +1,17 @@
 <h2 align="center">Hi 👋, I'm Abhishek</h2>
 <h3 align="center">A Msc.graduate , and a AI enthusiast ! </h3>
 
-### Languages and Tools
+### I am...
+* 🎓 A MSc graduate interested in `machine learning`, `deep learning`, `software develoment`
+* 🔭 Currently working on various topics in the field of machine learning.
+* 🎓 Was  a student in FH Kiel University.
+* 👨‍💻 Has been a software developer after my bachelors, a graduate reseach assistant during my Msc. 
+* 📚 Longlife learner 
+* 🐧 openCV , tensorflow and pytorch fan fan! 
+* 📄 Let me known if you find anything interesting in my repos. 
 
+
+### Languages and Tools
 
 <img align="left" src="https://simpleicons.org/icons/javascript.svg" alt="JS" height="40px" />
 <img align="left" src="https://simpleicons.org/icons/docker.svg" alt="Docker" height="40px" />
