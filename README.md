@@ -12,7 +12,6 @@
 ### I am...
 * 🎓 A MSc graduate interested in `machine learning`, `deep learning`, `software develoment`
 * 🔭 Currently working on various topics in the field of machine learning.
-* 🎓 Was  a student in FH Kiel University.
 * 👨‍💻 Has been a software developer after my bachelors, a graduate reseach assistant during my Msc. 
 * 📚 Longlife learner 
 * 🐧 openCV , tensorflow and pytorch fan fan! 
