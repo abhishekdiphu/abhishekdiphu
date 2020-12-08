@@ -2,7 +2,7 @@
 <h3 align="center">A Msc.graduate , and a AI enthusiast ! </h3>
 <br />
 <a href="https://www.linkedin.com/in/abhishek-buragohain-28b8498a/" target="blank">
-  <img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="abhishek" width="40px" />
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="abhishek" width="40px" />
 </a>
 <br />
 
@@ -15,7 +15,6 @@
 * 🐧 openCV , tensorflow and pytorch fan fan! 
 * 📄 Let me known if you find anything interesting in my repos. 
 
-<br />
 ### Languages and Tools
 
 <img align="left" src="https://simpleicons.org/icons/javascript.svg" alt="JS" height="40px" />
