@@ -1,8 +1,8 @@
 <h2 align="center">Hi 👋, I'm Abhishek</h2>
 <h3 align="center">A Msc.graduate , and a AI enthusiast ! </h3>
-<br />
+
 <a href="https://www.linkedin.com/in/abhishek-buragohain-28b8498a/" target="blank">
-  <img align="center-right" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="abhishek" width="40px" />
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="abhishek" width="40px" />
 </a>
 <br />
 
