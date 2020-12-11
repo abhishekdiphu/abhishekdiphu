@@ -17,7 +17,7 @@
 * 🔭 Currently working on various topics in the field of machine learning.
 * 👨‍💻 Has been a software developer after my bachelors, a graduate reseach assistant during my Msc. 
 * 📚 Longlife learner 
-* 🐧 A openCV , tensorflow and pytorch ,python fan! 
+* 🐧 A Arsenal fan! 
 * 📄 Let me known if you find anything interesting in my repos. 
 
 ### Languages and Tools
