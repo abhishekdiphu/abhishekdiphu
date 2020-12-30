@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋, I'm Abhishek</h2>
-<h3 align="center">A Msc.graduate , and a AI enthusiast ! </h3>
+<h3 align="center">A Msc.graduate , and a AI enthusiast! </h3>
 <br />
 
 ### Connect with me on...
