@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋, I'm Abhishek</h2>
+<h2 align="center">Moin Moin 👋, I'm Abhishek</h2>
 <h3 align="center">A Msc.graduate , and a AI enthusiast! </h3>
 <br />
 
@@ -13,7 +13,7 @@
 <br />
 
 ### I am...
-* 🎓 A MSc graduate worked  in the field of `machine learning`& `deep learning` for medical images during my academic times, `software develoment` 
+* 🎓 A MSc graduate worked  in the field of `machine learning`& `deep learning` for medical images during my academic times.` 
 * 🔭 Currently exploring various topics in the field of machine learning.
 * 👨‍💻 Has been a software developer after my bachelors, a graduate reseach assistant during my Msc. 
 * 📚 Longlife learner 
