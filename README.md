@@ -6,7 +6,7 @@
 ### I am...
 * 🎓 A MSc graduate worked  in the field of `machine learning`& `deep learning` for medical images during my academic times.` 
 * 🔭 Currently exploring various topics in the field of machine learning.
-* 👨‍💻 Has been a software developer after my bachelors, a graduate reseach assistant during my Msc. 
+* 👨‍💻 Has been a software developer after my bachelors, a student reseach assistant during my Msc. 
 * 📚 Longlife learner 
 * 🐧 A Arsenal fan! 
 
